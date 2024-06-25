@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: NACHFLIX
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: 100% no fake 1 link mediafire
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
